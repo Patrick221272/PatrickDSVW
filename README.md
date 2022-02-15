@@ -1,4 +1,5 @@
-![Sign](https://i.imgur.com/bovh598.png) - For greg
+
+
 
 
 Damn Small Vulnerable Web [![Python 3.x](https://img.shields.io/badge/python-3.x-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-Unlicense-red.svg)](https://github.com/stamparm/DSVW/blob/master/LICENSE)
@@ -8,11 +9,11 @@ Damn Small Vulnerable Web [![Python 3.x](https://img.shields.io/badge/python-3.x
 
 ![XSS](http://i.imgur.com/BoSOgJs.png) ------
 
-Quick start
+Quick start - Changed file - Test change
 ----
 
 Run the following command:
-```
+```sdadada
 $ python dsvw.py 
 Damn Small Vulnerable Web (DSVW) < 100 LoC (Lines of Code) #v0.2a
  by: Miroslav Stampar (@stamparm)
